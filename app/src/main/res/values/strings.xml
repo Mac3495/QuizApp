@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_name">Cuestionario</string>
+    <string name="bienvenido">BIENVENIDO!</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="comenzar">COMENZAR</string>
+    <string name="pregunta_uno">Pregunta 1</string>
+    <string name="pregunta_dos">Pregunta 2</string>
+    <string name="presentar">Presentar</string>
+</resources>
